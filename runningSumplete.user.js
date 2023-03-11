@@ -7,6 +7,8 @@
 // @match        https://sumplete.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sumplete.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/AG-Guardian/tampermonkey/main/runningSumplete.user.js
+// @updateURL  https://raw.githubusercontent.com/AG-Guardian/tampermonkey/main/runningSumplete.user.js
 // ==/UserScript==
 
 (function() {
